@@ -2,7 +2,7 @@ import styled from "styled-components";
 import checkIcon from "./../../images/icon-check.svg";
 
 export const StyledTodo = styled.div`
-   min-height: 3.75rem;
+   min-height: 5rem;
    padding: 0 1rem;
    background-color: ${({theme}) => theme.bgTodos};
    border-bottom: 1px solid ${({theme}) => theme.borders};

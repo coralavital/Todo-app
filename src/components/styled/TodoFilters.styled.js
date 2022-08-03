@@ -66,7 +66,7 @@ export const StyledFilters = styled.section`
             position: relative;
             bottom: 0;
             height: 100%;
-            width: 10rem;
+            width: 0rem;
             padding: 0;
             box-shadow: none;
 

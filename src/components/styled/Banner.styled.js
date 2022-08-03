@@ -13,6 +13,6 @@ export const StyledBanner = styled.div`
         background-size: cover;
 
     @media (min-width: 1440px) {
-            height: 19rem;
+            height: 25rem;
     }
 `

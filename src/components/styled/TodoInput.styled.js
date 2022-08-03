@@ -32,7 +32,7 @@ export const StyledTodoInput = styled.div`
     @media (min-width: 1440px) {
         .todo-input {
             font-size: 1.2rem;
-            width: 27.25rem;
+            width: 50rem;
         }
     }
 

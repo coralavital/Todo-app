@@ -11,6 +11,7 @@ export const StyledHeader = styled.header`
         padding-top: .5rem;
         letter-spacing: 10px;
         font-weight: 700;
+		font-size: 50px;
     }
 
     .toggle-icon {
@@ -20,6 +21,6 @@ export const StyledHeader = styled.header`
     
     
     @media (min-width: 1440px) {
-        margin-top: 1rem;
+        margin-top: 20rem;
     }
 `
